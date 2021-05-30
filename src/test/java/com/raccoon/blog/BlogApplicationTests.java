@@ -1,10 +1,10 @@
-package org.motivators.wavy_project;
+package com.raccoon.blog;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class WavyProjectApplicationTests {
+class BlogApplicationTests {
 
     @Test
     void contextLoads() {

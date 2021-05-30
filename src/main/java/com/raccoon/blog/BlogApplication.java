@@ -1,13 +1,13 @@
-package org.motivators.wavy_project;
+package com.raccoon.blog;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class WavyProjectApplication {
+public class BlogApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(WavyProjectApplication.class, args);
+        SpringApplication.run(BlogApplication.class, args);
     }
 
 }
